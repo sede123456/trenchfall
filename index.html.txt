@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Trenchfall Beta</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<div class="contenedor">
+
+<h1>TRENCHFALL</h1>
+
+<p class="subtitulo">
+Sobrevive. Explora. Resiste.
+</p>
+
+<div class="tarjeta">
+
+<h2>🧟 Beta 0.1</h2>
+
+<p>
+
+Bienvenido a la primera versión beta de Trenchfall.
+
+Explora un mundo abierto lleno de zombis.
+
+Recoge recursos.
+
+Compra munición y botiquines.
+
+Sobrevive al día y la noche.
+
+</p>
+
+<a class="boton" href="juego 1.zip" download>
+
+⬇ Descargar Beta
+
+</a>
+
+</div>
+
+<div class="caracteristicas">
+
+<h2>Características</h2>
+
+<ul>
+
+<li>🌍 Mundo abierto</li>
+
+<li>🌲 Bosques gigantes</li>
+
+<li>🏘️ Pueblo</li>
+
+<li>🧟 Zombis</li>
+
+<li>🔫 Armas</li>
+
+<li>🎒 Inventario</li>
+
+<li>🏪 Tienda</li>
+
+<li>🌞 Ciclo de día y noche</li>
+
+</ul>
+
+</div>
+
+<footer>
+
+Creado por <strong>Sederik Ernesto</strong>
+
+</footer>
+
+</div>
+
+</body>
+
+</html>
